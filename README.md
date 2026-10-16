@@ -11,4 +11,4 @@ Computer science graduate (AP Degree, Copenhagen, 2026). I build Python web serv
 
 Stack: Python · Flask · SQLite · Docker · Linux · Stripe · Anthropic API · pytest
 
-The product source code is private because the services are commercial. The repositories below are from my studies.
+The product source code is private because the services are commercial. The public repositories below are forks of group projects from my studies.
